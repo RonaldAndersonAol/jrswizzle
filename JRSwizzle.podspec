@@ -18,6 +18,8 @@ More succinctly: JRSwizzle wants to be your one-stop-shop for all your method sw
 
   s.ios.deployment_target = '4.3'
   s.osx.deployment_target = '10.6'
+  s.tvos.deployment_target = '10.0'
+  s.watchos.deployment_target = '3.0'
 
   s.frameworks   = 'Foundation'
 end
